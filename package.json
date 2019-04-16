@@ -12,7 +12,8 @@
     "watch": "hap watch"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.3.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/plugin-proposal-decorators": "^7.4.0",
     "hap-toolkit":"^0.1.1"
   }
 }
