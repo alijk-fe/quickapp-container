@@ -2,7 +2,7 @@
   "name": "quickapp",
   "version": "1.0.0",
   "subversion": {
-    "toolkit": "0.1.1"
+    "toolkit": "0.4.7"
   },
   "description": "",
   "scripts": {
@@ -14,6 +14,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/plugin-proposal-decorators": "^7.4.0",
-    "hap-toolkit":"^0.1.1"
+    "hap-toolkit": "latest"
   }
 }
